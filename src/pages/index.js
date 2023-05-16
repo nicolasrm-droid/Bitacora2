@@ -8,6 +8,7 @@ import Bitacora2 from 'components/Bitacora2'
 import Bitacora3 from 'components/Bitacora3'
 import Bitacora4 from 'components/Bitacora4'
 import Bitacora5 from 'components/Bitacora5'
+import Bitacora6 from 'components/Bitacora6'
 
 import Titulo from 'components/Titulo'
 import Arduino from 'components/Arduino'
@@ -37,6 +38,7 @@ export default function Home() {
         <Bitacora3/>
         <Bitacora4/>
         <Bitacora5/>
+        <Bitacora6/>
 
       </main>
     </div>
