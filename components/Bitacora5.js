@@ -104,7 +104,7 @@ const Bitacora5 = () => {
                 <p>Aqui como quedo el animatronico </p>
             </div>
 
-            <div id='video' alt="video" className='py-2' >
+            <div id='videocel' alt="video" className='py-2' >
                 <video controls muted type="video.mp4">
                     <source src="VideoFinal.mp4" />
                 </video>
